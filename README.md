@@ -15,7 +15,7 @@
 `Dhaka, Bangladesh` &nbsp;·&nbsp; `PhD Applicant, Fall 2027` &nbsp;·&nbsp; `SAEC 2024` &nbsp;·&nbsp; `3 papers in progress`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ann-naser-nabil)
-[![Website](https://img.shields.io/badge/Academic%20Website-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://annnaser-nabil.github.io/)
+[![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://annnaser-nabil.github.io/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ann.n.nabil@gmail.com)
 
 
