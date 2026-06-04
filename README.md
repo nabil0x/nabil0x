@@ -2,121 +2,171 @@
   <img height="500" src="https://c4.wallpaperflare.com/wallpaper/220/987/639/ubuntu-linux-terminal-hacker-wallpaper-preview.jpg" />
 </div>
 
+<div align="center">
 
-<h1 align="center">✨ Welcome, Traveler! <img src="https://komarev.com/ghpvc/?username=AnnNaserNabil&style=flat-square&label=🌟&color=blue" alt="Visitor Count" /> You’re on This Journey with Me ✨</h1>
+```
+ █████╗ ███╗   ██╗███╗   ██╗
+██╔══██╗████╗  ██║████╗  ██║
+███████║██╔██╗ ██║██╔██╗ ██║
+██╔══██║██║╚██╗██║██║╚██╗██║
+██║  ██║██║ ╚████║██║ ╚████║
+╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
+  N A S E R   N A B I L
+```
 
----
+**ML Researcher · Low-Resource NLP · LLM Evaluation · Computational Social Science**
 
-<p align="center">
-  🌐 <a href="https://nabil.ami.bd"><b>Portfolio</b></a> ⚡
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  🤖 <a href="https://nabil.iam.bd"><b>Automation Engineer</b></a>
-</p>
+`Dhaka, Bangladesh` &nbsp;·&nbsp; `PhD Applicant, Fall 2027` &nbsp;·&nbsp; `SAEC 2024` &nbsp;·&nbsp; `3 papers in progress`
 
-<h3 align="left">👨‍💻 Who Am I?</h3>
-
-👋 Hey there! I’m **Ann Naser Nabil**, a curious soul from Earth, blending creativity and technology into something extraordinary at their crossroads.
-
-
-🎨 **Artist & Innovator** |--| I merge **Data Science**, **AI**, and **Creative Tech** with passions for music, painting, writting and gaming.  
-💡 **Explorer** |--| I dive into the intersections of **Psychology**, **Spirituality**, and **Human connection** through code and creativity.  
-🥋 **Multifaceted Soul** |--| Monk, Music lover, and Writter crafting vibrant, story-rich solutions.  
-
-🌟 **What Fuels Me?**  
-- Building indie projects that fuse tech, art, and clever twists.  
-- Unraveling data to uncover stories and drive impact.  
-- Chasing rhythms, brushstrokes, and ideas that spark joy.  
-
-🚀 **My Journey?** To achieve financial freedom, explore the world, and uplift global well-being, one creation at a time.
-
-
-**Let’s connect and co-create something extraordinary!**
-
----
-
-### 🛠 My Toolkit
-
-<div align="left">
-
-<!-- Programming & Scripting -->
-<img src="https://skillicons.dev/icons?i=python,bash,go" height="40" title="Python, Bash, Go" />
-<img width="12" />
-
-<!-- AI/ML Frameworks -->
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=black&style=for-the-badge" height="40" title="TensorFlow" />
-<img width="12" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" title="PyTorch" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=scikit-learn" height="40" title="Scikit-learn" />
-<img width="12" />
-
-<!-- NLP -->
-<img src="https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white&style=for-the-badge" height="40" title="spaCy" />
-<img width="12" />
-<img src="https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge" height="40" title="NLTK" />
-<img width="12" />
-
-<!-- LLM Ecosystem -->
-<img src="https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white&style=for-the-badge" height="40" title="LangChain" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Crew%20AI-9146FF?style=for-the-badge&logoColor=white" height="40" title="Crew AI" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Agno%20Agents-1F1F1F?style=for-the-badge&logoColor=white" height="40" title="Agno Agents" />
-<img width="12" />
-
-<!-- Automation & Workflow -->
-<img src="https://img.shields.io/badge/n8n-EF2D5E?logo=n8n&logoColor=white&style=for-the-badge" height="40" title="n8n" />
-<img width="12" />
-
-<!-- Data Tools -->
-<img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" title="Pandas" />
-<img width="12" />
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="40" title="NumPy" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" title="MySQL, PostgreSQL" />
-<img width="12" />
-
-<!-- Backend & APIs -->
-<img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit" height="40" title="FastAPI, Flask, Streamlit" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=docker,git" height="40" title="Docker, Git" />
-<img width="12" />
-
-<!-- Visualization -->
-<img src="https://skillicons.dev/icons?i=jupyter" height="40" title="Jupyter" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=markdown" height="40" title="Markdown" />
-<img width="12" />
-
-<!-- IDEs and OS -->
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,linux" height="40" title="VS Code, PyCharm, Linux" />
-<img width="12" />
-<img src="https://skillicons.dev/icons?i=colab" height="40" title="Google Colab" />
-<img width="12" />
-<img src="https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white" height="40" title="Render Deployment" />
-<img width="12" />
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ann.naser.nabil)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/Nabil0x)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ann.n.nabil@gmail.com)
 
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/04f479d8-e1c5-4f08-82c5-f4cfc860f4e2/thumbnail" >
-</p>
+## Research Statement
+
+I work on **low-resource NLP systems** — building the infrastructure that allows language models to work for the languages and communities that mainstream NLP research has historically overlooked. My primary focus is **Bangla**, spoken by ~230 million people yet severely underrepresented in benchmark datasets and evaluation literature.
+
+My research sits at the intersection of three concerns:
+
+- **Synthetic data** as a lever for low-resource dataset construction
+- **Rigorous evaluation** of multilingual and compact LLMs under data scarcity
+- **Computational social science** methods for understanding economic and social narratives in low-resource contexts
 
 ---
 
-<h3 align="left">🔥 My Stats</h3>
+## Publications & Research Output
 
-![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
+| Status | Title | Venue / Notes |
+|:------:|-------|---------------|
+| ✅ **Published** | *Does Institutional Quality Matter for Financial Development? Evidence from Six Asian Emerging Economies* | **SAEC 2024** — 7th SANEM Annual Economists Conference |
+| 🔄 **Under Review** | *Comparative Analysis of Tiny LLMs for Bangla Hate Speech and Emotion Detection* | Evaluates compact LMs on Bangla NLP across multiple benchmarks |
+| 🔄 **Under Review** | *Synthetic Bangla Text Generation for Low-Resource NLP: A Dataset Construction Framework* | LLM-based synthetic pipeline; quality, diversity, and downstream utility analysis |
+| 📋 **In Progress** | *Economic Narrative Indices and Media-Based Sentiment Measures: A Systematic Review* | Reviews lexicon, topic modeling, and text classification methods for economic forecasting |
+
+> Targeting venues in computational linguistics, NLP, and AI for social good — including ACL, EMNLP, and regional AI venues focused on South and Southeast Asia.
 
 ---
 
-<h3 align="left">🌌 Let’s Build the Future Together</h3>
+## Planned Research Cluster (PhD Track)
+
+```
+  SYNTHETIC BANGLA NLP PIPELINE
+  ══════════════════════════════════════════════════════════════
+
+  Paper 1 ──────────────────────────────────────────────────────
+  Dataset Construction via LLM-Based Synthetic Generation
+  → Low-resource framework · quality filters · label consistency
+
+           ↓  shared pipeline  ↓
+
+  Paper 2 ──────────────────────────────────────────────────────
+  Benchmarking Small & Mid-Size LLMs on Bangla NLP Tasks
+  → mBERT · multilingual T5 · compact LLMs · failure analysis
+
+           ↓  extends to social science  ↓
+
+  Paper 3 ──────────────────────────────────────────────────────
+  Synthetic Data for Computational Social Science
+  → Global South contexts · economic narratives · media analysis
+
+  ══════════════════════════════════════════════════════════════
+```
+
+---
+
+## Research Interests
+
+```
+Primary
+├── Low-resource & multilingual NLP
+├── Synthetic data generation for language models
+├── LLM evaluation under distribution shift & data scarcity
+└── Benchmark design for South Asian languages
+
+Secondary
+├── Computational social science via text
+├── Economic narrative indices from news data
+└── AI systems for Global South research contexts
+```
+
+---
+
+## The Research Loop
+
+Every project I build follows this cycle — each iteration tightens the evaluation methodology:
+
+```
+  1. Identify gap ──► 2. Synthesize or collect data
+                                  │
+  5. Refine method ◄── 4. Analyze failure modes
+                                  │
+                      3. Evaluate model families
+                         (tiny · mid · large LLMs)
+```
+
+---
+
+## Selected Projects
+
+**[SocialFlow](https://github.com/Nabil0x)** — Agentic Social Media Automation Platform
+> Multi-tenant SaaS · LLM-integrated workflows · FastAPI · Celery · Redis
+
+**[AutoMLBench](https://github.com/Nabil0x)** — Automated ML Benchmarking Library
+> Model comparison across classification, regression & clustering · XGBoost · LightGBM · CatBoost
+
+**[TidyFlow](https://github.com/Nabil0x)** — Lightweight Preprocessing Toolkit
+> Modular data cleaning & transformation · Pandas & Scikit-Learn compatible
+
+**[FireViz](https://github.com/Nabil0x)** — Fast Exploratory Visualization Library
+> Scatter · bar · heatmap · treemap · network graph · minimal API
+
+---
+
+## Background
+
+```yaml
+Education:
+  - MSc Economics (Ongoing)   — Jahangirnagar University
+  - BSc Economics             — Jahangirnagar University
+  - BSc Physics (Year 1)      — SUST
+
+Experience:
+  - Independent Researcher    — Low-Resource NLP (2025–present)
+  - Systems Architect         — Doshomik IELTS (2026–present)
+  - Community Director        — AIML Professional Community Bangladesh (2025–present)
+  - Data Science Intern       — Somikoron AI (NLP & Recommendation Systems)
+
+PhD Target:                   — Fall 2027 (US institutions)
+Focus Areas:                  — Information Science · Computational Social Science
+                                Human-Centered Computing · NLP
+```
+
+---
+
+## Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Languages:** Python · JavaScript · TypeScript · Bash
+**ML/NLP:** PyTorch · TensorFlow · Transformers · RAG · LLM Evaluation · Synthetic Data Generation
+**Research:** Econometrics · Statistical Modeling · Benchmark Design · Research Methodology
+**Systems:** FastAPI · Celery · Redis · n8n · REST APIs · Webhooks
+
+---
 
 <div align="center">
-  <a href="mailto:ann.n.nabil@example.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge" alt="Email" /></a>
-  <a href="https://twitter.com/ann_naser"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/ann-naser-nabil"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+
+*"Most benchmark datasets are written in English. I'm interested in what happens when they're not."*
+
 </div>
