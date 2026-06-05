@@ -115,13 +115,13 @@ Every project I build follows this cycle — each iteration tightens the evaluat
 **[SocialFlow](https://github.com/Nabil0x)** — Agentic Social Media Automation Platform
 > Multi-tenant SaaS · LLM-integrated workflows · FastAPI · Celery · Redis
 
-**[AutoMLBench](https://github.com/Nabil0x)** — Automated ML Benchmarking Library
+**[AutoMLBench](https://pypi.org/user/Nabil.ann/)** — Automated ML Benchmarking Library
 > Model comparison across classification, regression & clustering · XGBoost · LightGBM · CatBoost
 
-**[TidyFlow](https://github.com/Nabil0x)** — Lightweight Preprocessing Toolkit
+**[TidyFlow](https://pypi.org/user/Nabil.ann/)** — Lightweight Preprocessing Toolkit
 > Modular data cleaning & transformation · Pandas & Scikit-Learn compatible
 
-**[FireViz](https://github.com/Nabil0x)** — Fast Exploratory Visualization Library
+**[FireViz](https://pypi.org/user/Nabil.ann/)** — Fast Exploratory Visualization Library
 > Scatter · bar · heatmap · treemap · network graph · minimal API
 
 ---
