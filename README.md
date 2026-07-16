@@ -20,8 +20,8 @@
 *Building datasets, benchmarks, and evaluation frameworks for low-resource languages.*
 
 [Website](https://ann-naser-nabil.github.io/) •
-[Google Scholar](#) •
-[ORCID](#) •
+[Google Scholar](https://scholar.google.com/citations?user=QtwobpUAAAAJ) •
+[ORCID](https://orcid.org/0009-0006-3561-045X) •
 [GitHub](https://github.com/Nabil0x) •
 [LinkedIn](https://linkedin.com/in/ann-naser-nabil) •
 [Email](mailto:ann.n.nabil@gmail.com)
