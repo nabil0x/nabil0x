@@ -9,164 +9,173 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
   N A S E R   N A B I L
 ```
-
-**ML Researcher · Low-Resource NLP · LLM Evaluation · Computational Social Science**
-
-`Dhaka, Bangladesh` &nbsp;·&nbsp; `PhD Applicant, Fall 2027` &nbsp;·&nbsp; `SAEC 2024` &nbsp;·&nbsp; `3 papers in progress`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ann-naser-nabil)
-[![Website](https://img.shields.io/badge/Website-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://ann-naser-nabil.github.io/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ann.n.nabil@gmail.com)
+</div>
 
 
 
+<div align="center">
 
+**Researcher in Natural Language Processing, Computational Social Science, and Machine Learning**
+
+*Building datasets, benchmarks, and evaluation frameworks for low-resource languages.*
+
+[Website](https://ann-naser-nabil.github.io/) •
+[Google Scholar](#) •
+[ORCID](#) •
+[GitHub](https://github.com/Nabil0x) •
+[LinkedIn](https://linkedin.com/in/ann-naser-nabil) •
+[Email](mailto:ann.n.nabil@gmail.com)
 
 </div>
 
 ---
 
-## Research Statement
+## About Me
 
-I work on **low-resource NLP systems** — building the infrastructure that allows language models to work for the languages and communities that mainstream NLP research has historically overlooked. My primary focus is **Bangla**, spoken by ~230 million people yet severely underrepresented in benchmark datasets and evaluation literature.
+I work at the intersection of **Natural Language Processing (NLP)**, **Computational Social Science**, and **Applied Machine Learning**, with a particular focus on **low-resource languages**.
 
-My research sits at the intersection of three concerns:
+My research aims to develop datasets, benchmarks, and evaluation methodologies that improve multilingual language technologies for underrepresented languages, especially **Bangla** and other **Global South** contexts.
 
-- **Synthetic data** as a lever for low-resource dataset construction
-- **Rigorous evaluation** of multilingual and compact LLMs under data scarcity
-- **Computational social science** methods for understanding economic and social narratives in low-resource contexts
+Current research interests include:
 
----
-
-## Publications & Research Output
-
-| Status | Title | Venue / Notes |
-|:------:|-------|---------------|
-| ✅ **Published** | *Does Institutional Quality Matter for Financial Development? Evidence from Six Asian Emerging Economies* | **SAEC 2024** — 7th SANEM Annual Economists Conference |
-| 🔄 **Under Review** | *Comparative Analysis of Tiny LLMs for Bangla Hate Speech and Emotion Detection* | Evaluates compact LMs on Bangla NLP across multiple benchmarks |
-| 🔄 **Under Review** | *Synthetic Bangla Text Generation for Low-Resource NLP: A Dataset Construction Framework* | LLM-based synthetic pipeline; quality, diversity, and downstream utility analysis |
-| 📋 **In Progress** | *Economic Narrative Indices and Media-Based Sentiment Measures: A Systematic Review* | Reviews lexicon, topic modeling, and text classification methods for economic forecasting |
-
-> Targeting venues in computational linguistics, NLP, and AI for social good — including ACL, EMNLP, and regional AI venues focused on South and Southeast Asia.
+* Low-resource & multilingual NLP
+* Weak supervision
+* Trustworthy NLP
+* Financial NLP
+* Synthetic data generation
+* LLM evaluation
+* Dataset and benchmark construction
 
 ---
 
-## Planned Research Cluster (PhD Track)
+## Current Research
 
-```
-  SYNTHETIC BANGLA NLP PIPELINE
-  ══════════════════════════════════════════════════════════════
+My recent work focuses on three complementary directions:
 
-  Paper 1 ──────────────────────────────────────────────────────
-  Dataset Construction via LLM-Based Synthetic Generation
-  → Low-resource framework · quality filters · label consistency
+### Low-Resource Language Resources
 
-           ↓  shared pipeline  ↓
+Building large-scale corpora and benchmark datasets for Bangla and multilingual NLP.
 
-  Paper 2 ──────────────────────────────────────────────────────
-  Benchmarking Small & Mid-Size LLMs on Bangla NLP Tasks
-  → mBERT · multilingual T5 · compact LLMs · failure analysis
+### Trustworthy Language Models
 
-           ↓  extends to social science  ↓
+Developing auditable weak-supervision methods and evaluation frameworks for multilingual LLMs.
 
-  Paper 3 ──────────────────────────────────────────────────────
-  Synthetic Data for Computational Social Science
-  → Global South contexts · economic narratives · media analysis
+### Computational Social Science
 
-  ══════════════════════════════════════════════════════════════
-```
+Applying NLP to study economic narratives, financial communication, and media discourse in Global South contexts.
 
 ---
 
-## Research Interests
+## Selected Research
 
-```
-Primary
-├── Low-resource & multilingual NLP
-├── Synthetic data generation for language models
-├── LLM evaluation under distribution shift & data scarcity
-└── Benchmark design for South Asian languages
+### CB-SentiLex
 
-Secondary
-├── Computational social science via text
-├── Economic narrative indices from news data
-└── AI systems for Global South research contexts
-```
+Weak-supervision framework for Bangladesh Bank stance and sentiment detection.
+
+* Submitted to *Language Resources & Evaluation*
+* Auditable labeling pipeline
+* Benchmark resource for Bangla financial NLP
 
 ---
 
-## The Research Loop
+### BENI
 
-Every project I build follows this cycle — each iteration tightens the evaluation methodology:
-
-```
-  1. Identify gap ──► 2. Synthesize or collect data
-                                  │
-  5. Refine method ◄── 4. Analyze failure modes
-                                  │
-                      3. Evaluate model families
-                         (tiny · mid · large LLMs)
-```
+A harmonized corpus of approximately **1.47 million Bangla news articles** for computational social science and NLP research.
 
 ---
 
-## Selected Projects
+### BENI Global 10
 
-**[SocialFlow](https://github.com/Nabil0x)** — Agentic Social Media Automation Platform
-> Multi-tenant SaaS · LLM-integrated workflows · FastAPI · Celery · Redis
-
-**[AutoMLBench](https://pypi.org/user/Nabil.ann/)** — Automated ML Benchmarking Library
-> Model comparison across classification, regression & clustering · XGBoost · LightGBM · CatBoost
-
-**[TidyFlow](https://pypi.org/user/Nabil.ann/)** — Lightweight Preprocessing Toolkit
-> Modular data cleaning & transformation · Pandas & Scikit-Learn compatible
-
-**[FireViz](https://pypi.org/user/Nabil.ann/)** — Fast Exploratory Visualization Library
-> Scatter · bar · heatmap · treemap · network graph · minimal API
+Multilingual economic news corpus containing over **522,000 articles across 10 languages**, supporting research on economic narratives in the Global South.
 
 ---
 
-## Background
+### FinFact-BD
 
-```yaml
-Education:
-  - MSc Economics (Ongoing)   — Jahangirnagar University
-  - BSc Economics             — Jahangirnagar University
-  - BSc Physics (Year 1)      — SUST
-
-Experience:
-  - Independent Researcher    — Low-Resource NLP (2025–present)
-  - Systems Architect         — Doshomik IELTS (2026–present)
-  - Community Director        — AIML Professional Community Bangladesh (2025–present)
-  - Data Science Intern       — Somikoron AI (NLP & Recommendation Systems)
-
-PhD Target:                   — Fall 2027 (US institutions)
-Focus Areas:                  — Information Science · Computational Social Science
-                                Human-Centered Computing · NLP
-```
+Ongoing benchmark for Bangla financial fact verification and misinformation detection.
 
 ---
 
-## Stack
+## Open Source
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+### SocialFlow
 
-**Languages:** Python · JavaScript · TypeScript · Bash
-**ML/NLP:** PyTorch · TensorFlow · Transformers · RAG · LLM Evaluation · Synthetic Data Generation
-**Research:** Econometrics · Statistical Modeling · Benchmark Design · Research Methodology
-**Systems:** FastAPI · Celery · Redis · n8n · REST APIs · Webhooks
+Agentic social media automation platform powered by LLM workflows.
+
+**Stack:** FastAPI • Redis • Celery • PostgreSQL
+
+---
+
+### AutoMLBench
+
+Python library for benchmarking machine learning models across classification, regression, and clustering tasks.
+
+---
+
+### TidyFlow
+
+Lightweight preprocessing toolkit for structured machine learning workflows.
+
+---
+
+### Tracehouse
+
+Terminal session recorder with searchable local history for reproducible development workflows.
+
+---
+
+## Research Software Philosophy
+
+I believe research software should be:
+
+* Reproducible
+* Well documented
+* Open source
+* Easy to evaluate
+* Built to support scientific research rather than isolated experiments
+
+---
+
+## Collaboration
+
+I am interested in collaborating on projects involving:
+
+* Low-resource NLP
+* Multilingual language models
+* Bangla NLP
+* Dataset construction
+* Benchmark development
+* Synthetic data generation
+* Computational social science
+* Financial NLP
+
+If your work overlaps with these areas, feel free to reach out.
+
+---
+
+## Technologies
+
+**Programming**
+
+Python • TypeScript • Bash
+
+**Machine Learning**
+
+PyTorch • Hugging Face Transformers • Scikit-learn
+
+**Research**
+
+Weak Supervision • LLM Evaluation • Information Extraction • Statistical Modeling • Computational Text Analysis
+
+**Infrastructure**
+
+FastAPI • Docker • Linux • REST APIs • Git
 
 ---
 
 <div align="center">
 
-*"Most benchmark datasets are written in English. I'm interested in what happens when they're not."*
+*"Building open resources and evaluation frameworks for multilingual NLP."*
 
 </div>
+
