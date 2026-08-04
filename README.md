@@ -9,173 +9,87 @@
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝
   N A S E R   N A B I L
 ```
-</div>
-
-
-
 <div align="center">
 
-**Researcher in Natural Language Processing, Computational Social Science, and Machine Learning**
+# 👋 Hi, I'm Ann Naser Nabil
 
-*Building datasets, benchmarks, and evaluation frameworks for low-resource languages.*
+### AI Engineer | LLMs • RAG • Agentic AI • FastAPI
 
-[Website](https://ann-naser-nabil.github.io/) •
-[Google Scholar](https://scholar.google.com/citations?user=QtwobpUAAAAJ) •
-[ORCID](https://orcid.org/0009-0006-3561-045X) •
-[GitHub](https://github.com/Nabil0x) •
-[LinkedIn](https://linkedin.com/in/ann-naser-nabil) •
-[Email](mailto:ann.n.nabil@gmail.com)
+Building production-ready AI applications with Large Language Models, Retrieval-Augmented Generation, and scalable backend systems.
+
+[🌐 Website](https://ann-naser-nabil.github.io/) •
+[💼 LinkedIn](https://linkedin.com/in/ann-naser-nabil) •
+[📚 Scholar](https://scholar.google.com/citations?user=QtwobpUAAAAJ) •
+[🧑‍💻 GitHub](https://github.com/Nabil0x) •
+[✉️ Email](mailto:ann.n.nabil@gmail.com)
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About
 
-I work at the intersection of **Natural Language Processing (NLP)**, **Computational Social Science**, and **Applied Machine Learning**, with a particular focus on **low-resource languages**.
+I'm an AI Engineer specializing in **LLMs**, **RAG**, **Agentic AI**, and **Backend Development**.
 
-My research aims to develop datasets, benchmarks, and evaluation methodologies that improve multilingual language technologies for underrepresented languages, especially **Bangla** and other **Global South** contexts.
-
-Current research interests include:
-
-* Low-resource & multilingual NLP
-* Weak supervision
-* Trustworthy NLP
-* Financial NLP
-* Synthetic data generation
-* LLM evaluation
-* Dataset and benchmark construction
+I build AI assistants, document intelligence systems, and production-ready APIs using modern AI frameworks and scalable infrastructure. Alongside engineering, I contribute to multilingual NLP research and open-source software.
 
 ---
 
-## Current Research
+## 🛠 Tech Stack
 
-My recent work focuses on three complementary directions:
+**Languages**
 
-### Low-Resource Language Resources
+Python • TypeScript • SQL • Bash
 
-Building large-scale corpora and benchmark datasets for Bangla and multilingual NLP.
+**LLMs & AI**
 
-### Trustworthy Language Models
-
-Developing auditable weak-supervision methods and evaluation frameworks for multilingual LLMs.
-
-### Computational Social Science
-
-Applying NLP to study economic narratives, financial communication, and media discourse in Global South contexts.
-
----
-
-## Selected Research
-
-### CB-SentiLex
-
-Weak-supervision framework for Bangladesh Bank stance and sentiment detection.
-
-* Submitted to *Language Resources & Evaluation*
-* Auditable labeling pipeline
-* Benchmark resource for Bangla financial NLP
-
----
-
-### BENI
-
-A harmonized corpus of approximately **1.47 million Bangla news articles** for computational social science and NLP research.
-
----
-
-### BENI Global 10
-
-Multilingual economic news corpus containing over **522,000 articles across 10 languages**, supporting research on economic narratives in the Global South.
-
----
-
-### FinFact-BD
-
-Ongoing benchmark for Bangla financial fact verification and misinformation detection.
-
----
-
-## Open Source
-
-### SocialFlow
-
-Agentic social media automation platform powered by LLM workflows.
-
-**Stack:** FastAPI • Redis • Celery • PostgreSQL
-
----
-
-### AutoMLBench
-
-Python library for benchmarking machine learning models across classification, regression, and clustering tasks.
-
----
-
-### TidyFlow
-
-Lightweight preprocessing toolkit for structured machine learning workflows.
-
----
-
-### Tracehouse
-
-Terminal session recorder with searchable local history for reproducible development workflows.
-
----
-
-## Research Software Philosophy
-
-I believe research software should be:
-
-* Reproducible
-* Well documented
-* Open source
-* Easy to evaluate
-* Built to support scientific research rather than isolated experiments
-
----
-
-## Collaboration
-
-I am interested in collaborating on projects involving:
-
-* Low-resource NLP
-* Multilingual language models
-* Bangla NLP
-* Dataset construction
-* Benchmark development
-* Synthetic data generation
-* Computational social science
-* Financial NLP
-
-If your work overlaps with these areas, feel free to reach out.
-
----
-
-## Technologies
-
-**Programming**
-
-Python • TypeScript • Bash
+OpenAI • Gemini • Claude • Llama • LangChain • LangGraph • LlamaIndex • RAG
 
 **Machine Learning**
 
-PyTorch • Hugging Face Transformers • Scikit-learn
+PyTorch • TensorFlow • Hugging Face
 
-**Research**
+**Backend**
 
-Weak Supervision • LLM Evaluation • Information Extraction • Statistical Modeling • Computational Text Analysis
+FastAPI • REST APIs • Celery • Redis
 
-**Infrastructure**
+**Databases**
 
-FastAPI • Docker • Linux • REST APIs • Git
+PostgreSQL • MongoDB • FAISS • ChromaDB • Qdrant
+
+**DevOps**
+
+Docker • Git • Linux • CI/CD • vLLM • Ollama
 
 ---
 
-<div align="center">
+## 🚀 Featured Projects
 
-*"Building open resources and evaluation frameworks for multilingual NLP."*
+- **SocialFlow** — LLM-powered customer support automation with RAG.
+- **BENI** — 1.47M+ Bangla news corpus for NLP research.
+- **BENI Global 10** — Multilingual economic news corpus across 10 languages.
+- **FinFact-BD** — Bangla financial fact verification benchmark.
+- **AutoMLBench** — Python library for ML benchmarking.
+- **TidyFlow** — Data preprocessing toolkit.
+
+---
+
+## 🌱 Currently Exploring
+
+- Agentic AI
+- GraphRAG
+- Long-context RAG
+- AI Agents
+- LLM Evaluation
+- MCP
+- Kubernetes for AI
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing AI Engineering, LLMs, RAG, Backend Systems, and Open Source.
+
+📧 **ann.n.nabil@gmail.com**
 
 </div>
-
