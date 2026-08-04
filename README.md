@@ -74,7 +74,7 @@ Docker • Git • Linux • CI/CD • vLLM • Ollama
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Working
 
 - Agentic AI
 - GraphRAG
